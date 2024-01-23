@@ -1,6 +1,10 @@
 import csv # Manejar archivos CSV
 import copy # Realizar copias de elementos en python
 
+# hice este cambio
+def suma(a, b):
+    return a + b
+
 myVehicle = {
     "vin" : "<empty>",
     "make" : "<empty>" ,
